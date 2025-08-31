@@ -1,3 +1,4 @@
+
 # Task Manager API (Flask)
 
 Mini API REST para gerenciar tarefas (CRUD) com Flask + SQLite.
@@ -17,3 +18,7 @@ py -3 -m venv .venv
 & ".\.venv\Scripts\activate.bat"
 py -m pip install -r requirements.txt
 py app.py
+
+# task-manager-api
+Simple task management API using Flask and Python
+
